@@ -1,0 +1,16 @@
+{
+  "name": "lovestoryapp",
+  "version": "1.0.0",
+  "description": "Node.js + Docker app with a love story",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
